@@ -54,13 +54,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Java.next(2016) <typeout>"
-eventDate: "2 de Abril de 2016"
+heroTitle: "Java.next() <typeout>"
+eventDate: "14 de Mayo de 2016"
 typeoutTextValues: '"", "//Open Space", "//El futuro de Java"'
 typeoutFallback: '""'
 heroButtons:
  - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
- - {permalink: "/#tickets", text: "Compra tu entrada"}
+ - {permalink: "/#tickets", text: "Adquiere tu entrada"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -107,7 +107,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "ETSI de Sistemas Informáticos"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["3 tracks en paralelo en 'las naveras'", "Auditorio central para 300 asistentes", "Zona de catering muy luminosa"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.png"
