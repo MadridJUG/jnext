@@ -1,15 +1,17 @@
 .logo {
-    background-image: url($logos-sprite);
     background-repeat: no-repeat;
     &.logo-dark {
-    	background-position: 0 -1px;
+        $logo-dark: $sprites-dir + "/JavaNext_Logotipos-01.svg";
+        background-image: url($logo-dark);
     }
     &.logo-gray {
-    	background-position: 0 -63px;
-	}
-	&.logo-light {
-	    background-position: 0 -127px;
-	}
+        $logo-gray: $sprites-dir + "/JavaNext_Logotipos-02.svg";
+        background-image: url($logo-gray);
+    }
+    &.logo-light {
+        $logo-light: $sprites-dir + "/JavaNext_Logotipos-03.svg";
+        background-image: url($logo-light);
+    }
 }
 .icon {
     display: inline-block;
