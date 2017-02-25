@@ -44,7 +44,7 @@ c4sponsorsUrl: "/assets/#"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programa"}
+ - {permalink: "/agenda/", text: "Agenda"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "¿Cómo llegar?"}
 bottomNavigationLinks:
