@@ -112,8 +112,8 @@ venueFeatures: ["3 tracks en paralelo en 'las naveras'", "Auditorio central para
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.png"
 tweetsFeedTitle: "Últimos tuits"
-twitterHashTag: "jnext16"
-twitterFeed: "http://jnext-tweetledee.herokuapp.com/tweetledee/searchjson.php?q=%23jnext16&cache_interval=8000&c=10"
+twitterHashTag: "jnext17"
+twitterFeed: "http://jnext-tweetledee.herokuapp.com/tweetledee/searchjson.php?q=%23jnext17&cache_interval=8000&c=10"
 
 # Partners Block
 organizersTitle: "Organizan"
