@@ -1,60 +1,112 @@
 - 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Carlos"
+  surname: "Sierra"
+  title: "Core software engineer at Liferay"
+  thumbnailUrl: csierra.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "JUG", title: "Madrid JUG"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carlos-sierra-andr%C3%A9s-60a6232/"}
+    - {name: "github", link: "https://github.com/csierra"}
+    - {name: "twitter", link: "https://twitter.com/csierrandres"}
+
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "David"
+  surname: "Gomez"
+  title: "Consultor Tech. en Autentia"
+  thumbnailUrl: dgomezg.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "JUG", title: "Madrid JUG"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dgomezg/"}
+    - {name: "github", link: "https://github.com/dgomezg"}
+    - {name: "twitter", link: "https://twitter.com/dgomezg"}
+
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Mario"
+  surname: "Camou"
+  title: "Software Engineer en Actyx"
+  thumbnailUrl: mario.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mcamou/"}
+    - {name: "twitter", link: "https://twitter.com/thedoc"}
+    - {name: "github", link: "https://github.com/mcamou"}
+
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 4
+  name: "Nando"
+  surname: "Sola"
+  title: "SRE en GrapheneDB"
+  thumbnailUrl: nando.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nandosola/"}
+    - {name: "twitter", link: "https://twitter.com/Mr_Solo"}
+    - {name: "github", link: "https://github.com/nandosola"}
+
+- 
+  id: 5
+  name: "Jerónimo"
+  surname: "López"
+  title: "Espartano del código"
+  thumbnailUrl: jerolba.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jerolba/"}
+    - {name: "twitter", link: "https://twitter.com/jerolba"}
+    - {name: "github", link: "https://github.com/jerolba"}
+    - {name: "site", link: "https://www.jerolba.com/"}
+
+- 
+  id: 6
+  name: "Jose Ignacio"
+  surname: "Dominguez"
+  title: "Product Manager en Liferay"
+  thumbnailUrl: joseignacio.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joseignaciodominguez/"}
+    - {name: "twitter", link: "https://twitter.com/jidtuit"}
+    - {name: "github", link: "https://github.com/jidtuit"}
+- 
+  id: 10
+  name: "Miguel Ángel"
+  surname: "Pastor"
+  title: "Team Lead en Liferay"
+  thumbnailUrl: miguelinlas3.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/miguelpastorolivar/"}
+    - {name: "twitter", link: "https://twitter.com/miguelinlas3"}
+    - {name: "github", link: "https://github.com/migue"}
+    - {name: "site", link: "http://migue.github.io/"}
+
+- 
+  id: 12
+  name: "Susana"
+  surname: "Marló"
+  title: "Arquitectura de Eventos"
+  thumbnailUrl: susana.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/susana-marl%C3%B3-a0663036/"}
+    - {name: "site", link: "http://migue.github.io/"}
+
