@@ -154,7 +154,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=jnext_openspace", icon: "twitter"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
