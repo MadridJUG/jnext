@@ -140,7 +140,7 @@ $small-label-width: 80px;
 .slot {
     @extend .track-header-slot;
     padding: 0;
-    cursor: pointer;
+    /*cursor: pointer;*/
     @media (max-width: 767px) {
         border-top: $schedule-border;
     }
