@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "¿Cómo llegar?"}
 bottomNavigationLinks:
- - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
+ - {permalink: "/open-space/", text: "¿Qué es un Open Space?"}
 rightNavigationButtons:
- - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
+ - {permalink: "/open-space/", text: "¿Qué es un Open Space?"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "14 de Mayo de 2016"
 typeoutTextValues: '"", "//Open Space", "//El futuro de Java"'
 typeoutFallback: '""'
 heroButtons:
- - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
+ - {permalink: "/open-space/", text: "¿Qué es un Open Space?"}
  - {permalink: "/#tickets", text: "Adquiere tu entrada"}
 
 # About Block
