@@ -13,9 +13,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Java.next(2016)"
 email: "jnext.openspace@gmail.com"
 description: "Un open space sobre el futuro de Java"
-baseurl: "/jnext"
+baseurl: ""
 url: "https://jnext.eu"
 permalink: "/blog/:title"
+#Review info
 googleAnalyticsTrackingId: "UA-74341480-1"
 googleAnalyticsSiteUrl: "jnext.eu"
 siteVerification: "_GYqmHGjILSQ0LnKgufxx7wH5tn3oS3WdPKe200j_gs"
