@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Java.next(2016)"
+title: "Java.next(2017)"
 email: "jnext.openspace@gmail.com"
 description: "Un open space sobre el futuro de Java"
 baseurl: ""
@@ -44,7 +44,7 @@ c4sponsorsUrl: "/assets/#"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#tickets", text: "Entradas"}
  - {permalink: "/agenda/", text: "Agenda"}
  - {permalink: "/team/", text: "Equipo"}
@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Java.next() <typeout>"
-eventDate: "14 de Mayo de 2016"
+eventDate: "3 de Junio de 2017"
 typeoutTextValues: '"", "//Open Space", "//El futuro de Java"'
 typeoutFallback: '""'
 heroButtons:
@@ -95,9 +95,9 @@ eventAddressLocality: "Madrid"
 eventAddressLocalityRegion: "Madrid"
 eventPostalCode: "28031"
 eventAddressCountry: "Spain"
-eventStartTime: "2016-04-02T10:00"
+eventStartTime: "2017-06-03T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-04-02T20:00"
+eventEndTime: "2017-06-32T19:00"
 eventPlaceCoordinates: "40.3896044, -3.6298781"
 mapCenterCoordinates: "40.3896044, -3.6298781"
 mapMobileCenterCoordinates: "40.3896044, -3.6298781"
@@ -159,18 +159,20 @@ socialLinks:
  #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Enlaces"
   links:
    - {link: "http://www.meetup.com/MadridJUG/", text: "MadridJUG Meetup"}
    - {link: "http://talentumempleo.com/", text: "Talentum Empleo"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
    - {link: "mailto:madridjavausergroup@gmail.com", text: "madridjavausergroup@gmail.com"}
+   - {permalink: "/team/", text: "El equipo"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "http://reeelab.com/2013/02/16/manual-de-instrucciones-para-un-open-space/", text: "Manual de instrucciones para un Open Space"}
+   - {permalink: "/cod/", text: "Código de conducta"}
 
 # Blog
 blogTitle: "Latest news"
