@@ -9,7 +9,7 @@
         background-image: url($logo-gray);
     }
     &.logo-light {
-        $logo-light: $sprites-dir + "/JavaNext_Logotipos-03.svg";
+        $logo-light: $sprites-dir + "/JavaNextLogo.png"; 
         background-image: url($logo-light);
     }
 }

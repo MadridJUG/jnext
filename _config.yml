@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/#tickets", text: "Entradas"}
  - {permalink: "/agenda/", text: "Agenda"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "¿Cómo llegar?"}
+# - {permalink: "/logistics/", text: "¿Cómo llegar?"}
 bottomNavigationLinks:
  - {permalink: "/open-space/", text: "¿Qué es un Open Space?"}
 rightNavigationButtons:
@@ -73,9 +73,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "asistentes", detail: "entusiastas de la JVM"}
+ - {count: "150", specialCharacter: "+", info: "asistentes", detail: "entusiastas de la JVM"}
  - {count: "8", specialCharacter: "", info: "horas", detail: "de Open Space puro"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "¡tú también!"}
+ - {count: "3", specialCharacter: "", info: "tracks", detail: "para aprender"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
