@@ -62,7 +62,7 @@ typeoutTextValues: '"", "//Open Space", "//El futuro de Java"'
 typeoutFallback: '""'
 heroButtons:
  - {permalink: "/open-space/", text: "¿Qué es un Open Space?"}
- - {permalink: "/#tickets", text: "Adquiere tu entrada"}
+# - {permalink: "/#tickets", text: "Adquiere tu entrada"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -162,7 +162,7 @@ footerBlocks:
   title: "Enlaces"
   links:
    - {link: "http://www.meetup.com/MadridJUG/", text: "MadridJUG Meetup"}
-   - {link: "http://talentumempleo.com/", text: "Talentum Empleo"}
+   #- {link: "http://talentumempleo.com/", text: "Talentum Empleo"}
  -
   title: "Contacto"
   links:
