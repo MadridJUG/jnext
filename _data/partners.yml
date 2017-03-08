@@ -1,9 +1,4 @@
 - 
-  group: "Sponsor"
-  elements: 
-    - {name: "JetBrains", description: "JetBrains: Create Anything", link: "https://www.jetbrains.com/", imageUrl: "Jetbrains.png" , width: "140px"}
-    - {name: "47 Degrees", description: "Proven Functional Programming Experience", link: "https://www.47deg.com/", imageUrl: "47deg.png" , width: "140px"}
-- 
   group: "Con la ayuda de"
   elements: 
     - {name: "ETSI", description: "ETSI de Sistemas Informáticos", link: "http://www.etsisi.upm.es/", imageUrl: "LogoETSISI.png", width: "200px"}

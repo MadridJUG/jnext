@@ -1,9 +1,4 @@
 - 
-  group: "Main organizer"
+  group: "Organizador principal"
   elements: 
     - {name: "MadridJUG", description: "MadridJUG - Grupo de usuarios de Java de Madrid", link: "https://www.meetup.com/es-ES/MadridJUG/", imageUrl: "logoJUG.png"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "ScalaMAD", description: "ScalaMAD - Grupo de usuarios de Java de Madrid", link: "https://www.meetup.com/es-ES/Scala-Programming-Madrid/", imageUrl: "scalamad.jpg"}
-    - {name: "Madrid GUG", description: "Madrid GUG - Grupo de usuarios de Groovy de Madrid", link: "https://www.meetup.com/es-ES/madrid-gug/", imageUrl: "groovygug.png"}
