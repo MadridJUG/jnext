@@ -2,4 +2,3 @@
   group: "Con la ayuda de"
   elements: 
     - {name: "ETSI", description: "ETSI de Sistemas Informáticos", link: "http://www.etsisi.upm.es/", imageUrl: "LogoETSISI.png", width: "200px"}
-#    - {name: "Talentum Empleo", description: "Talentum Empleo", link: "http://empleodigitalformacion.fundaciontelefonica.com/", imageUrl: "TalentumEmpleo.png", width: "200px"}

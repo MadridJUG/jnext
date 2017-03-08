@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.meetup.com/MadridJUG/"
 
 # Head
-metaKeywords: "evento, jug, open space, java, jvm, futuro, programacion, desarrolladores, madrid, madridjug, talentum empleo"
+metaKeywords: "evento, jug, open space, java, jvm, futuro, programacion, desarrolladores, madrid, madridjug"
 twitterAccount: "@jnext_openspace"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -59,7 +59,7 @@ heroImage: "hero.jpg"
 heroTitle: "Java.next() <typeout>"
 eventDate: "3 de Junio de 2017"
 typeoutTextValues: '"", "//Open Space", "//El futuro de Java"'
-typeoutFallback: '""'
+typeoutFallback: ''
 heroButtons:
  - {permalink: "/open-space/", text: "¿Qué es un Open Space?"}
 # - {permalink: "/#tickets", text: "Adquiere tu entrada"}
@@ -162,7 +162,7 @@ footerBlocks:
   title: "Enlaces"
   links:
    - {link: "http://www.meetup.com/MadridJUG/", text: "MadridJUG Meetup"}
-   #- {link: "http://talentumempleo.com/", text: "Talentum Empleo"}
+   - {permalink: "/politica-de-cookies/", text: "Política de Cookies"}
  -
   title: "Contacto"
   links:
