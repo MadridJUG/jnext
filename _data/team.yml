@@ -27,35 +27,7 @@
     - {name: "twitter", link: "https://twitter.com/dgomezg"}
 
 - 
-  id: 4
-  name: "Mario"
-  surname: "Camou"
-  title: "Software Engineer en Actyx"
-  thumbnailUrl: mario.jpg
-  team: true
-  ribbon: 
-    - {abbr: "JUG", title: "Madrid JUG"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mcamou/"}
-    - {name: "twitter", link: "https://twitter.com/thedoc"}
-    - {name: "github", link: "https://github.com/mcamou"}
-
-- 
-  id: 4
-  name: "Nando"
-  surname: "Sola"
-  title: "SRE en GrapheneDB"
-  thumbnailUrl: nando.jpg
-  team: true
-  ribbon: 
-    - {abbr: "JUG", title: "Madrid JUG"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nandosola/"}
-    - {name: "twitter", link: "https://twitter.com/Mr_Solo"}
-    - {name: "github", link: "https://github.com/nandosola"}
-
-- 
-  id: 5
+  id: 3
   name: "Jerónimo"
   surname: "López"
   title: "Espartano del código"
@@ -70,7 +42,7 @@
     - {name: "site", link: "https://www.jerolba.com/"}
 
 - 
-  id: 6
+  id: 5
   name: "Jose Ignacio"
   surname: "Dominguez"
   title: "Product Manager en Liferay"
@@ -82,8 +54,23 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/joseignaciodominguez/"}
     - {name: "twitter", link: "https://twitter.com/jidtuit"}
     - {name: "github", link: "https://github.com/jidtuit"}
+
 - 
-  id: 10
+  id: 8
+  name: "Mario"
+  surname: "Camou"
+  title: "Software Engineer en Actyx"
+  thumbnailUrl: mario.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mcamou/"}
+    - {name: "twitter", link: "https://twitter.com/thedoc"}
+    - {name: "github", link: "https://github.com/mcamou"}
+
+- 
+  id: 9
   name: "Miguel Ángel"
   surname: "Pastor"
   title: "Team Lead en Liferay"
@@ -96,6 +83,20 @@
     - {name: "twitter", link: "https://twitter.com/miguelinlas3"}
     - {name: "github", link: "https://github.com/migue"}
     - {name: "site", link: "http://migue.github.io/"}
+
+- 
+  id: 10
+  name: "Nando"
+  surname: "Sola"
+  title: "SRE en GrapheneDB"
+  thumbnailUrl: nando.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nandosola/"}
+    - {name: "twitter", link: "https://twitter.com/Mr_Solo"}
+    - {name: "github", link: "https://github.com/nandosola"}
 
 - 
   id: 12

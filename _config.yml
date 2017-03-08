@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Java.next(2017)"
-email: "jnext.openspace@gmail.com"
+email: "madridjavausergroup@gmail.com"
 description: "Un open space sobre el futuro de Java"
 baseurl: ""
 url: "https://jnext.eu"
@@ -183,8 +183,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Acerca de nosotros"
+aboutUs: "MadridJUG lo forman un grupo de personas interesados en todo tipo de tecnologías en torno a la máquina virutal de Java. Desde Java a Scala, pasando por JRuby, todos los lenguajes y herramientas son bienvenidas."
 
 # Logistics Find Way Block
 findWayTitle: "Coordenadas"
