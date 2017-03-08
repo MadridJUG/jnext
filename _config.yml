@@ -112,7 +112,7 @@ venueTitle: "ETSI de Sistemas Informáticos"
 venueFeatures: ["3 tracks en paralelo en 'las naveras'", "Auditorio central para 300 asistentes", "Zona de catering muy luminosa"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.png"
+tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Últimos tuits"
 twitterHashTag: "jnext17"
 twitterFeed: "http://jnext-tweetledee.herokuapp.com/tweetledee/searchjson.php?q=%23jnext17&cache_interval=8000&c=10"

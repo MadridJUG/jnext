@@ -1,7 +1,7 @@
 .logo {
     background-repeat: no-repeat;
     &.logo-dark {
-        $logo-dark: $sprites-dir + "/JavaNext_Logotipos-01.svg";
+        $logo-dark: $sprites-dir + "/JavaNext_Logotipos-01.png";
         background-image: url($logo-dark);
     }
     &.logo-gray {
