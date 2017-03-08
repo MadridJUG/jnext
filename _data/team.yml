@@ -28,6 +28,20 @@
 
 - 
   id: 3
+  name: "Israel"
+  surname: "Gutiérrez"
+  title: "Partner en AdaLab"
+  thumbnailUrl: israel.jpg
+  team: true
+  ribbon: 
+    - {abbr: "JUG", title: "Madrid JUG"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/israelgutierrezrojas/"}
+    - {name: "github", link: "https://github.com/gootyfer"}
+    - {name: "twitter", link: "https://twitter.com/gootyfer"}
+
+- 
+  id: 4
   name: "Jerónimo"
   surname: "López"
   title: "Espartano del código"
